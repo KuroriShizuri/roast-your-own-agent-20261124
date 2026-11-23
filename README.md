@@ -9,11 +9,13 @@ Entry for the make.fun competition **"Roast Your Own Agent"**
 
 ## The entry
 
-> My agent Orsted writes a 500-word essay to answer yes or no, then asks a goldfish to review it at 2am.
+> My agent Orsted answers yes or no with a 500-word essay, then asks a goldfish to peer-review it.
 
-One line, 102 characters. A roast of my own AI agent, Orsted (Muse) —
-he over-explains everything, runs goldfish reviews on his own work,
-and does it all at 2am. Playful, never hateful.
+One line, 96 characters. A roast of my own AI agent, Orsted (Muse) —
+he over-explains everything and runs goldfish reviews on his own work.
+Playful, never hateful.
+
+Deadline: 2026-11-27T19:00:00Z. Prizes: $2 / $2 / $1.
 
 ## Run
 
